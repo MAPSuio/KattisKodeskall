@@ -55,7 +55,7 @@ for (int j = 1; j < days+1; j++) {
 }
 ```
 
-Kattis tester på standard output, som i Python er print()-funksjonen. Hva var det vi skulle printe igjen?
+Kattis tester på standard output, som i Java er System.out.println()-funksjonen. Hva var det vi skulle printe igjen?
 > For each data set there is one line of output. The single output line consists of the data set number, K, followed by a space followed by the number of candles needed for an N-day Chanukah holiday.
 
 Aha! Vel, vi har "the data set number K" lagret i `case`, og nå vet vi jo også hvor mange lys vi trenger, lagret i `candles`. Da er det vel bare å printe!
