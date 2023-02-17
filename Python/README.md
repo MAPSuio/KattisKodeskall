@@ -1,5 +1,7 @@
 # Kodeskall i Python
 
+Selve kodeskallet ligger [her](https://github.com/MAPSuio/KattisKodeskall/blob/main/Python/kattis.py), og er en løsning på [denne](https://open.kattis.com/problems/chanukah) oppgaven.
+
 ## Detaljert beskrivelse
 Når man løser Kattis-oppgaver i Python _må_ man ikke bruke funksjoner, men det er ryddigere.
 
