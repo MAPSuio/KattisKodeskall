@@ -12,7 +12,7 @@ def main():
 
 Vi leser inn et heltall (en string som vi konverterer til et heltall):
 ```python
-N = int(input())
+n = int(input())
 ```
 
 Dette heltallet er antall "caser" i oppgaven. Så går vi gjennom dem med en for-løkke:
