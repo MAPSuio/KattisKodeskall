@@ -8,7 +8,7 @@ Siden Kotlin er et kompilert språk (som Java), er det avhengig av å ha en main
 fun main() {
 ```
 
-Vi bruker `readLine()` for å lese fra terminalen, og `!!` fordi vi _vet_ at vi får et tall. Vi konverterer det enkelt til et heltall med `toInt()`
+Vi bruker `readLine()` for å lese fra terminalen, og `!!` fordi vi _vet_ at vi får et input. Vi konverterer det enkelt til et heltall med `toInt()`
 ```kotlin
 val n = readLine()!!.toInt()
 ```
